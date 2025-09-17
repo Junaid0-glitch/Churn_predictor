@@ -37,17 +37,3 @@ This project analyzes customer churn data from a telecom company and builds mach
 - imbalanced-learn
 - xgboost
 
-## Usage
-1. Open `churn_predictor.ipynb` in Jupyter Notebook or VS Code.
-2. Run cells sequentially to reproduce the analysis and modeling steps.
-3. Review results and conclusions at the end of the notebook.
-
-## Results
-- The notebook provides insights into important features affecting churn.
-- The best model and its accuracy are reported after hyperparameter tuning.
-
-## Author
-- Project by [Your Name]
-
-## License
-- For educational purposes only.
